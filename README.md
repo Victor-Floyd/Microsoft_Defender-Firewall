@@ -4,7 +4,7 @@
 <img src="https://githubucket.s3.us-east-2.amazonaws.com/Locate+Microsoft+Windows+Security+Virus+and+Threat+Protection.png" height="80%" width="80%" alt="Virus and Threat Protection"/> <br/> <br/>
 
 • Review Microsoft Windows Security Virus and Threat Protection <br/> <br/>
-<img src="https://githubucket.s3.us-east-2.amazonaws.com/Review+Microsoft+Windows+Defender+Antivirus+Quick+Scan+Threat+History.png" height="80%" width="80%" alt="Virus and Threat Protection"/> <br/> <br/>
+<img src="https://githubucket.s3.us-east-2.amazonaws.com/Review+Microsoft+Windows+Security+Virus+and+Threat+Protection.png" height="80%" width="80%" alt="Virus and Threat Protection"/> <br/> <br/>
 
 • Update Threat Definitions <br/> <br/>
 <img src="https://githubucket.s3.us-east-2.amazonaws.com/Update+Threat+Definitions.png" height="80%" width="80%" alt="Update Threat Definitions"/> <br/> <br/>
