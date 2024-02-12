@@ -1,7 +1,7 @@
 # Microsoft Defender Firewall
 
 Locate and Review Microsoft Windows Security Virus and Threat Protection 
-<img src="https://imgur.com/qoiEY2X" height="80%" width="80%" alt="Virus and Threat Protection"/>
+<img src="https://imgur.com/qoiEY2X" height="80%" width="80%" alt="Virus and Threat Protection"/> <br/>
 <img src="https://imgur.com/undefined" height="80%" width="80%" alt="Virus and Threat Protection"/>
 
 •
